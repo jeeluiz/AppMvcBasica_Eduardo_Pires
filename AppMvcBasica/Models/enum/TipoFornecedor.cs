@@ -2,7 +2,7 @@
 {
     public enum TipoFornecedor
     {
-        PessoaFisica =1,
-        PessoaJuridica =2,  
+        Pessoa_Fisica =1,
+        Pessoa_Juridica =2,  
     }
 }
